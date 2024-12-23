@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Chi tiết tài liệu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">HAUI LIBRARY CENTER</string>
+    <string name="nav_header_subtitle">Haui@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Đăng xuất</string>
+
+    <string name="menu_trangchu">Trang chủ</string>
+    <string name="menu_tailieu">Tài liệu của tôi</string>
+    <string name="menu_danhsach">Danh sách tài liệu</string>
+    <string name="menu_chiase">Chia sẻ tài liệu </string>
+    <string name="menu_dang">Đăng bán tài liệu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="filter_options">
+        <item>Tất cả tài liệu</item>
+        <item>Tài liệu miễn phí</item>
+        <item>Tài liệu mất phí</item>
+    </string-array>
+    <string-array name="fillter_loc1">
+        <item>Tất cả tài liệu</item>
+        <item>Tài liệu 1</item>
+        <item>Tài liệu 2</item>
+    </string-array>
+    <color name="cardBackgroundColor">#FFFFFF</color>
+    <color name="titleColor">#424242</color>
+    <color name="descriptionColor">#757575</color>
+    <color name="priceColor">#E64A19</color>
+</resources>
